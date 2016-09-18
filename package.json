@@ -1,0 +1,21 @@
+{
+  "name": "test-test",
+  "version": "1.0.0",
+  "description": "This is a npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "bloop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "blah"
+  },
+  "keywords": [
+    "whee"
+  ],
+  "author": "test",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
